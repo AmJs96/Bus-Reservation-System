@@ -42,6 +42,6 @@ The objective of this web based bus reservation system are: <br>
   <li>Bus List</li>
   <li>View Bus</li>
   </ul>
- <li>Users List<li>
- <li>Admin Dashboard<li>
+ <li>Users List</li>
+ <li>Admin Dashboard</li>
 </ul>
