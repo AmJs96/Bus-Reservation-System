@@ -14,12 +14,11 @@ Bus Reservation System is designed to automate the online ticket purchasing thro
 <br>
 <hr>
 
-#Objective <br>
+# Objective <br>
 The objective of this web based bus reservation system are: <br>
 <ul>
 <li>Make the booking process easier and comfortable for customers that are in and away from their home.</li>
 <li>Save customer’s time, by providing online service for the customer, where the customer can book a ticket 24\7.</li>
 <li>Enabling the customer to check the destination of the bus that is available and the time for departure and arrival.</li>
 </ul>
-<br>
 <hr>
