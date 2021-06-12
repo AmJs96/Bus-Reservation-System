@@ -23,7 +23,7 @@ The objective of this web based bus reservation system are: <br>
 </ul>
 <hr>
 
-# Features and Functionalitie
+# Features and Functionalities
 <ul>
 <li>This reservation system will have the ability to make the customer choose various routes and destinations and it will be displayed through the web application.</li>
 <li>The admin will be able to add the buses, destinations, time, and the operator name and view the list of the buses that will show on the screen.</li>
@@ -32,3 +32,16 @@ The objective of this web based bus reservation system are: <br>
 <li>The customer can update his profile easily in the system.</li>
 </ul>
 <hr>
+
+# Views, Controllers, Routes, Models
+<h2>Views</h2>
+<ul>
+ <li>Buses</li>
+  <ul style="list-style-type:square;">
+  <li>Add Bus</li>
+  <li>Bus List</li>
+  <li>View Bus</li>
+  </ul>
+ <li>Users List<li>
+ <li>Admin Dashboard<li>
+</ul>
