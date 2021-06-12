@@ -63,3 +63,34 @@ The objective of this web based bus reservation system are: <br>
  <li>Trips controller </li>
  <li> Book Controller </li>
 </ul>
+
+<h2>Route</h2>
+<ul>
+<li>Admin page route</li>
+<li>User page </li>
+<li>Update user profile route</li>
+<li>View Users route</li>
+<li>Bus route</li>
+<li>Book route</li>
+<li>View Trips route</li>
+</ul>
+
+<h2>Models</h2>
+<ul>
+<li>Bus model</li>
+<li>Users model</li>
+<li>Trips model</li>
+<li>Book model</li>
+</ul>
+<hr>
+
+# ERD
+
+
+<hr>
+
+# Sequence Diagram
+![Admin](https://user-images.githubusercontent.com/79072027/121787009-cce24280-cbed-11eb-9a33-7f9c67a229d1.png)
+![Customer](https://user-images.githubusercontent.com/79072027/121787016-d370ba00-cbed-11eb-941f-5e8bb0d51ad3.png)
+
+
