@@ -35,6 +35,7 @@ The objective of this web based bus reservation system are: <br>
 
 # Views, Controllers, Routes, Models
 <h2>Views</h2>
+<h6>Admin</h6>
 <ul>
  <li>Buses</li>
   <ul style="list-style-type:square;">
@@ -45,3 +46,12 @@ The objective of this web based bus reservation system are: <br>
  <li>Users List</li>
  <li>Admin Dashboard</li>
 </ul>
+
+<h6>Passenger</h6>
+<ul>
+ <li>Book</li>
+ <li>Passenger dashboard</li>
+ <li>Update profile</li>
+ <li>Trips</li>
+</ul>
+
