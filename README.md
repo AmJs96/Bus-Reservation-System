@@ -55,3 +55,11 @@ The objective of this web based bus reservation system are: <br>
  <li>Trips</li>
 </ul>
 
+<h2>Views</h2>
+<ul>
+ <li>Authentication controller </li>
+ <li> Bus controller </li>
+  <li>User controller </li>
+ <li>Trips controller </li>
+ <li> Book Controller </li>
+</ul>
