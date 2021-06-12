@@ -22,3 +22,13 @@ The objective of this web based bus reservation system are: <br>
 <li>Enabling the customer to check the destination of the bus that is available and the time for departure and arrival.</li>
 </ul>
 <hr>
+
+# Features and Functionalitie
+<ul>
+<li>This reservation system will have the ability to make the customer choose various routes and destinations and it will be displayed through the web application.</li>
+<li>The admin will be able to add the buses, destinations, time, and the operator name and view the list of the buses that will show on the screen.</li>
+<li>The admin can view all the users in the system.</li>
+<li>The customer will be able to see the seat availability, to book a ticket and  all the information is going to be displayed.</li>
+<li>The customer can update his profile easily in the system.</li>
+</ul>
+<hr>
