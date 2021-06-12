@@ -94,7 +94,9 @@ The objective of this web based bus reservation system are: <br>
 ![Customer](https://user-images.githubusercontent.com/79072027/121787394-0916a280-cbf0-11eb-85aa-d8b208d614e8.jpg)
 
 <hr>
-# References
+
+#  References
+
 <ul>
  <li>https://stackoverflow.com/</li>
  <li>https://laravel.com/</li>
