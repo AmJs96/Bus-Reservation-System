@@ -90,7 +90,8 @@ The objective of this web based bus reservation system are: <br>
 <hr>
 
 # Sequence Diagram
-![Admin](https://user-images.githubusercontent.com/79072027/121787009-cce24280-cbed-11eb-9a33-7f9c67a229d1.png)
-![Customer](https://user-images.githubusercontent.com/79072027/121787016-d370ba00-cbed-11eb-941f-5e8bb0d51ad3.png)
+![Admin](https://user-images.githubusercontent.com/79072027/121787392-04ea8500-cbf0-11eb-859a-8a445251d692.jpg)
+![Customer](https://user-images.githubusercontent.com/79072027/121787394-0916a280-cbf0-11eb-85aa-d8b208d614e8.jpg)
+
 
 
