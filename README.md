@@ -101,7 +101,7 @@ The objective of this web based bus reservation system are: <br>
  4 ) FAHAD <br>
 
 <hr>
-# ERD 
+# ERD
 
 ![WhatsApp Image 2021-06-13 at 12 52 16](https://user-images.githubusercontent.com/79072027/121805259-aca99680-cc74-11eb-8fdb-8388b8333025.jpeg)
 
