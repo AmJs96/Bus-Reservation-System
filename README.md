@@ -97,7 +97,9 @@ The objective of this web based bus reservation system are: <br>
              - View all the users in the database in the admin page<br>
              - Update profile page in the user dashboard<br>
              - Report & linking <br><br>
- 3 ) KAWTHAR <br>
+ 3 ) KAWTHAR <br> - View the users trip details in the database in the users page <br>
+                  - Entity relationship diagram <br>
+                  - Report & linking <br><br>
  4 ) FAHAD <br>
 
 <hr>
