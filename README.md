@@ -86,7 +86,7 @@ The objective of this web based bus reservation system are: <br>
 
 # Work Distributions <br>
 1 - ARMEEROH - Manage trips in admin page <br> 
-             - index.blade.php , create.blade.php , edit.blade.php , master.blade.php Pages <br>
+             - index.blade.php , create.blade.php , edit.blade.php , master.blade.php , Buscontroller.php , rout & bus migration <br>
              - Trip CRUD insert, edit & delete for trips information <br>
              - Automatically insert, update, delete in the database for trips <br>
              - Report & sequence diagram <br> <br>
