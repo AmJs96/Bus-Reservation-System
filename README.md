@@ -84,6 +84,22 @@ The objective of this web based bus reservation system are: <br>
 </ul>
 <hr>
 
+# Work Distributions <br>
+1 - ARMEEROH - Manage trips in admin page <br> 
+             - index.blade.php , create.blade.php , edit.blade.php , master.blade.php Pages <br>
+             - Trip CRUD insert, edit & delete for trips information <br>
+             - Automatically insert, update, delete in the database for trips <br>
+             - Report & sequence diagram <br> <br>
+2 - SHIMA    - Authentication to 2 different pages <br>
+             - Redirect the user to user dashboard <br>
+             - Redirect the Admin to Admin dashboard<br>
+             - View all the users in the database in the admin page<br>
+             - Update profile page in the user dashboard<br>
+             - Report & linking <br><br>
+ 3 - KAWTHAR <br>
+ 4 - FAHAD <br>
+
+<hr>
 # ERD
 ![WhatsApp Image 2021-06-13 at 12 52 16](https://user-images.githubusercontent.com/79072027/121801724-f8ebdb00-cc62-11eb-9c2c-059ab0a72d42.jpeg)
 
