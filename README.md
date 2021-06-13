@@ -102,7 +102,7 @@ The objective of this web based bus reservation system are: <br>
 
 <hr>
 # ERD
-![WhatsApp Image 2021-06-13 at 12 52 16](https://user-images.githubusercontent.com/79072027/121801724-f8ebdb00-cc62-11eb-9c2c-059ab0a72d42.jpeg)
+![WhatsApp Image 2021-06-13 at 12 52 16](https://user-images.githubusercontent.com/79072027/121805259-aca99680-cc74-11eb-8fdb-8388b8333025.jpeg)
 
 <hr>
 
